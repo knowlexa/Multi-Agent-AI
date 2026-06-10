@@ -1,0 +1,13 @@
+{
+    "workflow": {
+        "start_time": "2026-06-10 15:49:59.983550",
+        "status": "Running"
+    },
+    "steps": [
+        {
+            "agent": "Research Agent",
+            "start_time": "2026-06-10 15:49:59.986608",
+            "status": "Running"
+        }
+    ]
+}
